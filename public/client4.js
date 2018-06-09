@@ -22,4 +22,4 @@ async function logTodo(name) {
   console.log(todo);
 }
 
-logTodo('dishes');
+logTodo('the dishes and clothes');
